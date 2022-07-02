@@ -1,4 +1,6 @@
-﻿string fullName = "Иванов Иван Иванович";
+﻿Console.Title = "SkillBox Module 2";
+
+string fullName = "Иванов Иван Иванович";
 byte age = 30;
 string email = "blablabla@mail.ru";
 double pointsProg = 40.0;

@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            Console.Title = "SkillBox Module 1";
+
             Console.WriteLine("Hello World!  <= (Задание 1)");
             Console.Write("Hello ");
             Console.Write("World ");
@@ -15,5 +17,5 @@
     }
 }
 
-//В новейшей версии .NET объявление namespace, using и тела main - опускается и дополняется программой. 
-//Что сокращает выполнение задания по условия модуля 1 до одной строки. 
+// В новейшей версии .NET объявление namespace, using и тела main - опускается и дополняется программой. 
+// Что сокращает выполнение задания по условиям модуля 1 до одной-двух строк. 
